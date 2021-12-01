@@ -1,3 +1,15 @@
+# Setup
+```
+$ npm install -g @angular/cli
+$ ng config -g cli.packageManager yarn
+$ ng new PostsAngular
+$ yarn add tailwindcss -D
+// $ yarn add tailwindcss@latest postcss@latest autoprefixer@latest -D
+$ npx tailwindcss init
+$ ng add ng-zorro-antd
+```
+
+
 # PostsAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
